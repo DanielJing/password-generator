@@ -5,7 +5,7 @@ using namespace std;
 
 static const char alphanum[] =
 "0123456789"
-"~!@#$%^&*()<>{}"
+"~!@#$%^&*()<>{}+-=?"
 "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 "abcdefghijklmnopqrstuvwxyz";
 int size = sizeof(alphanum) - 1;
