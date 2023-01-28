@@ -12,7 +12,7 @@ int size = sizeof(alphanum) - 1;
 
 int main()
 {
-	//password length
+	//the number of password digits
 	int length = 12;
 	
 	srand(time(0));
